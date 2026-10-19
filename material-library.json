@@ -1,6 +1,17 @@
 {
   "items": [
     {
+      "id": "mvfwkjpj59sx0",
+      "text": "所以为什么要伤心呢？明明我活得很可笑啊！",
+      "type": "句子",
+      "source": "",
+      "tags": [
+        "弱智吧"
+      ],
+      "images": [],
+      "createdAt": 1792453561543
+    },
+    {
       "id": "mvfnmn3nenqk5",
       "text": "我从你眼里看到了两样东西，一样是真诚，而另一样是眼屎。",
       "type": "段子",
@@ -149,13 +160,15 @@
     "句子",
     "段落",
     "点子",
-    "段子"
+    "段子",
+    "收件箱"
   ],
   "colors": {
     "句子": 0,
     "段落": 1,
     "点子": 5,
-    "段子": 2
+    "段子": 2,
+    "收件箱": 3
   },
   "sources": [],
   "fixedSource": "",
@@ -196,12 +209,32 @@
     "inputPlaceholder": "粘贴句子、段落（Ctrl+Enter保存）。用【文字】可高亮。可直接粘贴图片。",
     "cardSpacing": "compact",
     "zenFontSize": "normal",
-    "uiStyle": "modern",
+    "uiStyle": "retro",
     "focusModeCat": "收件箱",
     "saveShortcut": "enter",
     "sidebarLimit": 2
   },
   "trash": [
+    {
+      "id": "mvfw9520tvz69",
+      "text": "测试",
+      "type": "收件箱",
+      "source": "",
+      "tags": [],
+      "images": [],
+      "createdAt": 1792453029336,
+      "deletedAt": 1792453103812
+    },
+    {
+      "id": "mvfw91rtc4c93",
+      "text": "2443",
+      "type": "收件箱",
+      "source": "",
+      "tags": [],
+      "images": [],
+      "createdAt": 1792453025081,
+      "deletedAt": 1792453101146
+    },
     {
       "id": "mvewha70rpmrm",
       "text": "这是一条测试句子",
@@ -212,5 +245,6 @@
       "createdAt": 1792392943068,
       "deletedAt": 1792393206852
     }
-  ]
+  ],
+  "_rev": 9
 }
