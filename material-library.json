@@ -197,6 +197,8 @@
     "cardSpacing": "compact",
     "zenFontSize": "normal",
     "uiStyle": "modern",
+    "focusModeCat": "收件箱",
+    "saveShortcut": "enter",
     "sidebarLimit": 2
   },
   "trash": [
