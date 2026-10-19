@@ -196,7 +196,7 @@
     "inputPlaceholder": "粘贴句子、段落（Ctrl+Enter保存）。用【文字】可高亮。可直接粘贴图片。",
     "cardSpacing": "compact",
     "zenFontSize": "normal",
-    "uiStyle": "retro",
+    "uiStyle": "modern",
     "sidebarLimit": 2
   },
   "trash": [
