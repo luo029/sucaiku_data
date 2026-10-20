@@ -207,7 +207,8 @@
   "imageCategories": [
     "梗图",
     "情节",
-    "表情"
+    "表情",
+    "收件"
   ],
   "settings": {
     "copyWithSource": false,
@@ -219,9 +220,9 @@
       "tag": true
     },
     "statsLimit": 8,
-    "compressMode": "local",
+    "compressMode": "tinypng",
     "tinypngKey": "Copied to clipboard GV6TFZdRpLBQTMCKW9rrnbVXhd4DgCd1",
-    "tinypngProxy": "",
+    "tinypngProxy": "https://sucaiku.luo029.workers.dev/",
     "catLimit": 1,
     "srcLimit": 3,
     "tagLimit": 1,
@@ -239,10 +240,16 @@
     "sidebarShowTag": true,
     "inputPlaceholder": "粘贴句子、段落（Ctrl+Enter保存）。用【文字】可高亮。可直接粘贴图片。",
     "cardSpacing": "compact",
+    "listStyle": "strip",
     "zenFontSize": "normal",
     "uiStyle": "modern",
     "focusModeCat": "收件箱",
     "saveShortcut": "enter",
+    "enableMarkdown": true,
+    "copyWithoutMarks": true,
+    "copyKeepBlankLines": true,
+    "focusImgAutoUpload": true,
+    "focusImgDefaultCat": "收件",
     "sidebarLimit": 2
   },
   "trash": [
@@ -277,5 +284,5 @@
       "deletedAt": 1792393206852
     }
   ],
-  "_rev": 62
+  "_rev": 126
 }
