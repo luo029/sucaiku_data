@@ -198,7 +198,7 @@
     "collapseLimit": 150,
     "defaultPageSize": 12,
     "showHitokoto": true,
-    "enableAnim": true,
+    "enableAnim": false,
     "fontSizeMode": "normal",
     "syncCheckInterval": 60,
     "autoCheckUpdate": true,
@@ -246,5 +246,5 @@
       "deletedAt": 1792393206852
     }
   ],
-  "_rev": 23
+  "_rev": 3
 }
