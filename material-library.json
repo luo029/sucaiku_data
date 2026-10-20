@@ -224,6 +224,7 @@
     "uiStyle": "modern",
     "focusModeCat": "收件箱",
     "saveShortcut": "enter",
+    "copySourceFormat": "—— {source}",
     "sidebarLimit": 2
   },
   "trash": [
@@ -258,5 +259,5 @@
       "deletedAt": 1792393206852
     }
   ],
-  "_rev": 9
+  "_rev": 52
 }
