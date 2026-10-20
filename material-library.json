@@ -250,7 +250,43 @@
     "copyKeepBlankLines": true,
     "focusImgAutoUpload": true,
     "focusImgDefaultCat": "收件",
-    "sidebarLimit": 2
+    "sidebarLimit": 2,
+    "reviewStyle": {
+      "size": "28px",
+      "line": "1.8",
+      "theme": "default",
+      "lines": "show",
+      "font": "'KaiTi', 'STKaiti', serif",
+      "pulse": "off",
+      "imgs": "show",
+      "autoApprove": false,
+      "autoTime": 15,
+      "showCountdown": true,
+      "cdStartShow": 5,
+      "cdSize": 80,
+      "cdOpacity": 15,
+      "autoClose": false,
+      "autoCloseTime": 3,
+      "width": "1100px",
+      "padding": "24px",
+      "sidebar": "show",
+      "btnText": "准奏",
+      "showWordCount": true,
+      "preventAccident": true,
+      "enableUndo": true,
+      "undoTime": 5,
+      "enableSound": true,
+      "enableAnim": true,
+      "showShortcutHint": true,
+      "enableShortcuts": true,
+      "shortcutApprove": "ctrl-enter",
+      "shortcutSkip": "alt-right",
+      "shortcutDel": "alt-delete",
+      "recordHistory": true,
+      "showBattleStats": true,
+      "showTime": true,
+      "statsRange": "week"
+    }
   },
   "trash": [
     {
@@ -284,5 +320,5 @@
       "deletedAt": 1792393206852
     }
   ],
-  "_rev": 126
+  "_rev": 21
 }
