@@ -288,37 +288,6 @@
       "statsRange": "week"
     }
   },
-  "trash": [
-    {
-      "id": "mvfw9520tvz69",
-      "text": "测试",
-      "type": "收件箱",
-      "source": "",
-      "tags": [],
-      "images": [],
-      "createdAt": 1792453029336,
-      "deletedAt": 1792453103812
-    },
-    {
-      "id": "mvfw91rtc4c93",
-      "text": "2443",
-      "type": "收件箱",
-      "source": "",
-      "tags": [],
-      "images": [],
-      "createdAt": 1792453025081,
-      "deletedAt": 1792453101146
-    },
-    {
-      "id": "mvewha70rpmrm",
-      "text": "这是一条测试句子",
-      "type": "句子",
-      "source": "23",
-      "tags": [],
-      "images": [],
-      "createdAt": 1792392943068,
-      "deletedAt": 1792393206852
-    }
-  ],
-  "_rev": 23
+  "trash": [],
+  "_rev": 25
 }
