@@ -1,0 +1,41 @@
+{
+  "trash": [
+    {
+      "id": "mvho6lutcrrsc",
+      "text": "123",
+      "type": "收件箱",
+      "source": "",
+      "tags": [],
+      "images": [],
+      "createdAt": 1792560406565,
+      "deletedAt": 1792560689656
+    },
+    {
+      "id": "mvhhk71zsqn5v",
+      "text": "123",
+      "type": "句子",
+      "source": "",
+      "tags": [
+        "弱智吧"
+      ],
+      "images": [],
+      "createdAt": 1792549283255,
+      "updatedAt": 1792549293412,
+      "deletedAt": 1792549307164
+    },
+    {
+      "id": "mvhhk7o2s9z0g",
+      "text": "测试",
+      "type": "句子",
+      "source": "",
+      "tags": [
+        "弱智吧"
+      ],
+      "images": [],
+      "createdAt": 1792549284050,
+      "updatedAt": 1792549295299,
+      "deletedAt": 1792549306008
+    }
+  ],
+  "updatedAt": "2026-10-21T06:55:41.616Z"
+}
