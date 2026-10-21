@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "mvhixuz329iyg",
+      "text": "测试",
+      "type": "收件箱",
+      "source": "",
+      "tags": [],
+      "images": [],
+      "createdAt": 1792551600399
+    },
+    {
+      "id": "mvhixsj0asc7c",
+      "text": "233",
+      "type": "收件箱",
+      "source": "",
+      "tags": [],
+      "images": [],
+      "createdAt": 1792551597228
+    },
+    {
       "id": "mvhd9a9dh7mx3",
       "text": "放假？放什么假？只有对社会没有用的人才会放假，像我这种国家栋梁之才，怎么能放假？我就是来为人民服务的，干活！",
       "type": "段子",
@@ -325,5 +343,5 @@
       "deletedAt": 1792551588248
     }
   ],
-  "_rev": 8
+  "_rev": 12
 }
