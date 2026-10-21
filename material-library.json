@@ -1,15 +1,6 @@
 {
   "items": [
     {
-      "id": "mvhix2366ulmt",
-      "text": "123",
-      "type": "收件箱",
-      "source": "",
-      "tags": [],
-      "images": [],
-      "createdAt": 1792551562962
-    },
-    {
       "id": "mvhd9a9dh7mx3",
       "text": "放假？放什么假？只有对社会没有用的人才会放假，像我这种国家栋梁之才，怎么能放假？我就是来为人民服务的，干活！",
       "type": "段子",
@@ -322,6 +313,17 @@
       "测试"
     ]
   },
-  "trash": [],
-  "_rev": 7
+  "trash": [
+    {
+      "id": "mvhix2366ulmt",
+      "text": "123",
+      "type": "收件箱",
+      "source": "",
+      "tags": [],
+      "images": [],
+      "createdAt": 1792551562962,
+      "deletedAt": 1792551588248
+    }
+  ],
+  "_rev": 8
 }
