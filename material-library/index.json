@@ -1,7 +1,7 @@
 {
-  "_rev": 4,
+  "_rev": 5,
   "version": 4,
-  "updatedAt": "2026-10-21T16:03:50.596Z",
+  "updatedAt": "2026-10-21T16:49:06.803Z",
   "indexShards": {
     "2026": {
       "count": 16,
@@ -71,8 +71,8 @@
       "enableMarkdown": true,
       "copyWithoutMarks": true,
       "copyKeepBlankLines": true,
-      "focusImgAutoUpload": true,
-      "focusImgDefaultCat": "收件",
+      "focusImgAutoUpload": false,
+      "focusImgDefaultCat": "梗图",
       "imgNamingTemplate": "{cat}-{timestamp}-{rand}",
       "dataDir": "material-library",
       "shardSubdir": "data",
