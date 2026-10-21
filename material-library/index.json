@@ -1,7 +1,7 @@
 {
-  "_rev": 3,
+  "_rev": 4,
   "version": 4,
-  "updatedAt": "2026-10-21T13:29:29.885Z",
+  "updatedAt": "2026-10-21T16:03:50.596Z",
   "indexShards": {
     "2026": {
       "count": 16,
@@ -42,7 +42,7 @@
         "tag": true
       },
       "statsLimit": 8,
-      "compressMode": "tinypng",
+      "compressMode": "local",
       "tinypngKey": "Copied to clipboard GV6TFZdRpLBQTMCKW9rrnbVXhd4DgCd1",
       "tinypngProxy": "https://sucaiku.luo029.workers.dev/",
       "catLimit": 1,
@@ -65,7 +65,7 @@
       "listStyle": "strip",
       "zenFontSize": "normal",
       "uiStyle": "modern",
-      "zenAutoClosePanel": true,
+      "zenAutoClosePanel": false,
       "focusModeCat": "收件箱",
       "saveShortcut": "enter",
       "enableMarkdown": true,
@@ -89,11 +89,11 @@
       "checkIntervalSeconds": 60,
       "pullConcurrency": 8,
       "searchScope": "local",
-      "unloadedSearch": "ask",
+      "unloadedSearch": "never",
       "enableFullTextIndex": false,
       "searchHistoryEnabled": true,
       "searchDebounceMs": 180,
-      "autoPush": true,
+      "autoPush": false,
       "pushDelayMs": 2000,
       "pushConcurrency": 3,
       "pushBatchDelay": 500,
@@ -119,7 +119,7 @@
       "snapshotCompress": true,
       "snapshotPath": "snapshots/",
       "snapshotAutoCleanup": true,
-      "lastSnapshotAt": 1792589350415,
+      "lastSnapshotAt": 1792580738178,
       "catSyncAction": "ask",
       "catConflictMode": "last-write",
       "trashAutoCleanupThreshold": 1000,
@@ -163,7 +163,7 @@
       "rollbackEnabled": true,
       "tagColorMode": "dot",
       "tagAutoColor": false,
-      "tagFilterLogic": "and",
+      "tagFilterLogic": "or",
       "autoCompleteChars": 1,
       "autoCompleteMax": 10,
       "importDefaultAction": "ask",
@@ -172,12 +172,13 @@
       "integrityCheckMode": "weekly",
       "maxSplitParts": 10,
       "autoDeleteEmptyShard": true,
-      "enableShortcuts": true,
+      "enableShortcuts": false,
       "shortcutSearch": "/",
       "shortcutNew": "n",
       "shortcutPush": "ctrl+s",
       "maxTagsInHeader": 3,
       "enableContextMenu": true,
+      "enableStatsCache": true,
       "sidebarLimit": 2,
       "reviewStyle": {
         "size": "28px",
@@ -226,7 +227,8 @@
       "reviewPinnedTags": [],
       "reviewPinnedSources": [
         "测试"
-      ]
+      ],
+      "catVersion": 0
     },
     "tagColors": {},
     "catVersion": 0
