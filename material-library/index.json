@@ -1,7 +1,7 @@
 {
-  "_rev": 6,
+  "_rev": 7,
   "version": 4,
-  "updatedAt": "2026-10-21T16:56:44.312Z",
+  "updatedAt": "2026-10-21T17:49:24.238Z",
   "indexShards": {
     "2026": {
       "count": 16,
@@ -228,9 +228,10 @@
       "reviewPinnedSources": [
         "测试"
       ],
-      "catVersion": 0
+      "catVersion": 0,
+      "shortcutRandom": "alt+enter"
     },
     "tagColors": {},
-    "catVersion": 0
+    "catVersion": 6
   }
 }
