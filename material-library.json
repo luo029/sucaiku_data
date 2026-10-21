@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "id": "mvhd9a9dh7mx3",
+      "text": "放假？放什么假？只有对社会没有用的人才会放假，像我这种国家栋梁之才，怎么能放假？我就是来为人民服务的，干活！",
+      "type": "段子",
+      "source": "",
+      "tags": [
+        "牛马",
+        "地狱笑话"
+      ],
+      "images": [],
+      "createdAt": 1792542055729,
+      "updatedAt": 1792542072707
+    },
+    {
       "id": "mvg4s5y5ashz3",
       "text": "",
       "type": "图片",
@@ -286,8 +299,20 @@
       "showBattleStats": true,
       "showTime": true,
       "statsRange": "week"
-    }
+    },
+    "reviewFixedCat": "句子",
+    "reviewFixedTags": [
+      "弱智吧"
+    ],
+    "reviewFixedSource": null,
+    "reviewPinnedCats": [
+      "段子"
+    ],
+    "reviewPinnedTags": [],
+    "reviewPinnedSources": [
+      "测试"
+    ]
   },
   "trash": [],
-  "_rev": 1
+  "_rev": 549
 }
