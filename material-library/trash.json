@@ -1,179 +1,45 @@
 {
   "trash": [
     {
-      "id": "mvho6lutcrrsc",
-      "text": "123",
+      "id": "mvj9dv5r7esdz",
+      "text": "测试。\n——\n123",
       "type": "收件箱",
       "source": "",
       "tags": [],
       "images": [],
-      "createdAt": 1792560406565,
-      "deletedAt": 1792560689656
+      "createdAt": 1792656483327,
+      "deletedAt": 1792656693275
     },
     {
-      "id": "mvhhk71zsqn5v",
-      "text": "123",
-      "type": "句子",
-      "source": "",
-      "tags": [
-        "弱智吧"
-      ],
-      "images": [],
-      "createdAt": 1792549283255,
-      "updatedAt": 1792549293412,
-      "deletedAt": 1792549307164
-    },
-    {
-      "id": "mvhhk7o2s9z0g",
-      "text": "测试",
-      "type": "句子",
-      "source": "",
-      "tags": [
-        "弱智吧"
-      ],
-      "images": [],
-      "createdAt": 1792549284050,
-      "updatedAt": 1792549295299,
-      "deletedAt": 1792549306008
-    },
-    {
-      "id": "mviaizvz1nwfh",
-      "text": "123",
-      "type": "句子",
-      "source": "",
-      "tags": [
-        "弱智吧"
-      ],
-      "images": [],
-      "createdAt": 1792597936175,
-      "updatedAt": 1792597981688,
-      "deletedAt": 1792598310429
-    },
-    {
-      "id": "mviajmvmtr1b5",
-      "text": "123123",
-      "type": "句子",
-      "source": "",
-      "tags": [
-        "弱智吧"
-      ],
-      "images": [],
-      "createdAt": 1792597965970,
-      "updatedAt": 1792598181786,
-      "deletedAt": 1792598311361
-    },
-    {
-      "id": "mviajnmyh806b",
-      "text": "2333",
+      "id": "mvj9cw5jot4na",
+      "text": "测试\n【代码测试】",
       "type": "收件箱",
       "source": "",
       "tags": [],
       "images": [],
-      "createdAt": 1792597966954,
-      "deletedAt": 1792598312994
+      "createdAt": 1792656437959,
+      "deletedAt": 1792656693275
     },
     {
-      "id": "mviajnmyh806b",
-      "text": "2333",
+      "id": "mvj9ct4vku33n",
+      "text": "测试。",
       "type": "收件箱",
       "source": "",
       "tags": [],
       "images": [],
-      "createdAt": 1792597966954,
-      "deletedAt": 1792598429969
+      "createdAt": 1792656434047,
+      "deletedAt": 1792656693275
     },
     {
-      "id": "mviajmvmtr1b5",
-      "text": "123123",
-      "type": "句子",
-      "source": "",
-      "tags": [
-        "弱智吧"
-      ],
-      "images": [],
-      "createdAt": 1792597965970,
-      "updatedAt": 1792598181786,
-      "deletedAt": 1792598431230
-    },
-    {
-      "id": "mviaizvz1nwfh",
-      "text": "123",
-      "type": "句子",
-      "source": "",
-      "tags": [
-        "弱智吧"
-      ],
-      "images": [],
-      "createdAt": 1792597936175,
-      "updatedAt": 1792597981688,
-      "deletedAt": 1792598432648
-    },
-    {
-      "id": "mviaizvz1nwfh",
-      "text": "123",
-      "type": "句子",
-      "source": "",
-      "tags": [
-        "弱智吧"
-      ],
-      "images": [],
-      "createdAt": 1792597936175,
-      "updatedAt": 1792597981688,
-      "deletedAt": 1792598588219
-    },
-    {
-      "id": "mviajmvmtr1b5",
-      "text": "123123",
-      "type": "句子",
-      "source": "",
-      "tags": [
-        "弱智吧"
-      ],
-      "images": [],
-      "createdAt": 1792597965970,
-      "updatedAt": 1792598181786,
-      "deletedAt": 1792598589194
-    },
-    {
-      "id": "mviajnmyh806b",
-      "text": "2333",
+      "id": "mvj9crakkp7ne",
+      "text": "测试。",
       "type": "收件箱",
       "source": "",
       "tags": [],
       "images": [],
-      "createdAt": 1792597966954,
-      "deletedAt": 1792598590478
-    },
-    {
-      "id": "mviuhzncqqlso",
-      "text": "测试",
-      "type": "句子",
-      "source": "",
-      "tags": [],
-      "images": [],
-      "createdAt": 1792631481528,
-      "deletedAt": 1792633565204
-    },
-    {
-      "id": "mviuhzncqqlso",
-      "text": "测试",
-      "type": "句子",
-      "source": "",
-      "tags": [],
-      "images": [],
-      "createdAt": 1792631481528,
-      "deletedAt": 1792650171507
-    },
-    {
-      "id": "mviuhzncqqlso",
-      "text": "测试",
-      "type": "句子",
-      "source": "",
-      "tags": [],
-      "images": [],
-      "createdAt": 1792631481528,
-      "deletedAt": 1792651024465
+      "createdAt": 1792656431660,
+      "deletedAt": 1792656693275
     }
   ],
-  "updatedAt": "2026-10-22T06:37:16.584Z"
+  "updatedAt": "2026-10-22T08:11:46.580Z"
 }
