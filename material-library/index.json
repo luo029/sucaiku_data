@@ -1,7 +1,7 @@
 {
-  "_rev": 9,
+  "_rev": 10,
   "version": 4,
-  "updatedAt": "2026-10-22T06:11:36.839Z",
+  "updatedAt": "2026-10-22T06:37:20.702Z",
   "indexShards": {
     "2026": {
       "count": 16,
@@ -68,12 +68,6 @@
       "zenAutoClosePanel": false,
       "zenRenderMode": "paged",
       "zenPageSize": 20,
-      "imgUploadMode": "smart",
-      "imgUploadSmallMax": 2,
-      "imgUploadSmallConcurrency": 1,
-      "imgUploadSmallDelay": 0,
-      "imgUploadLargeConcurrency": 1,
-      "imgUploadLargeDelay": 500,
       "focusModeCat": "收件箱",
       "saveShortcut": "enter",
       "enableMarkdown": true,
@@ -112,6 +106,7 @@
       "shardMaxSizeKB": 650,
       "shardSplitEnabled": true,
       "gitTreeBatchEnabled": true,
+      "pushMode": "stable",
       "pushRetryCount": 3,
       "pushRetryDelaySec": 10,
       "syncStatusIcon": true,
@@ -186,6 +181,12 @@
       "shortcutPush": "ctrl+s",
       "maxTagsInHeader": 3,
       "enableContextMenu": true,
+      "imgUploadMode": "smart",
+      "imgUploadSmallMax": 2,
+      "imgUploadSmallConcurrency": 1,
+      "imgUploadSmallDelay": 0,
+      "imgUploadLargeConcurrency": 1,
+      "imgUploadLargeDelay": 500,
       "enableStatsCache": true,
       "sidebarLimit": 2,
       "reviewStyle": {
@@ -237,8 +238,7 @@
         "测试"
       ],
       "catVersion": 0,
-      "shortcutRandom": "alt+enter",
-      "pushMode": "stable"
+      "shortcutRandom": "alt+enter"
     },
     "tagColors": {},
     "catVersion": 6
