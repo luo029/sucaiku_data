@@ -1,11 +1,11 @@
 {
-  "_rev": 19,
+  "_rev": 20,
   "version": 4,
-  "updatedAt": "2026-10-23T11:25:02.656Z",
+  "updatedAt": "2026-10-24T04:04:43.418Z",
   "indexShards": {
     "2026": {
-      "count": 24,
-      "shardCount": 5
+      "count": 25,
+      "shardCount": 6
     }
   },
   "meta": {
@@ -14,14 +14,16 @@
       "段落",
       "点子",
       "段子",
-      "收件箱"
+      "收件箱",
+      "杂项"
     ],
     "colors": {
-      "句子": 0,
-      "段落": 1,
-      "点子": 5,
-      "段子": 2,
-      "收件箱": 3
+      "句子": "#4f46e5",
+      "段落": "#059669",
+      "点子": "#ca8a04",
+      "段子": "#ea580c",
+      "收件箱": "#db2777",
+      "杂项": "#c2410c"
     },
     "sources": [
       "您完全不按套路制卡是吗"
@@ -183,6 +185,18 @@
       "shortcutPush": "ctrl+s",
       "maxTagsInHeader": 3,
       "enableContextMenu": true,
+      "readestAutoJump": true,
+      "readestCollapseSkip": true,
+      "readestAutoExpand": false,
+      "readestShowDiff": true,
+      "readestDefaultPush": false,
+      "imgUploadMode": "smart",
+      "imgUploadSmallMax": 2,
+      "imgUploadSmallConcurrency": 1,
+      "imgUploadSmallDelay": 0,
+      "imgUploadLargeConcurrency": 1,
+      "imgUploadLargeDelay": 500,
+      "enableStatsCache": true,
       "sidebarLimit": 2,
       "reviewStyle": {
         "size": "28px",
@@ -232,17 +246,12 @@
       "reviewPinnedSources": [
         "测试"
       ],
-      "enableStatsCache": true,
       "catVersion": 0,
-      "shortcutRandom": "alt+enter",
-      "imgUploadMode": "smart",
-      "imgUploadSmallMax": 2,
-      "imgUploadSmallConcurrency": 1,
-      "imgUploadSmallDelay": 0,
-      "imgUploadLargeConcurrency": 1,
-      "imgUploadLargeDelay": 500
+      "shortcutRandom": "alt+enter"
     },
-    "tagColors": {},
-    "catVersion": 6
+    "tagColors": {
+      "恋爱": "#c2410c"
+    },
+    "catVersion": 7
   }
 }
