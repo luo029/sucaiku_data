@@ -41,29 +41,39 @@
     {
       "id": "mvnt49mzh5lpg",
       "text": "十华不夜，八极皆春。用乘景景之明，俾脱幽幽之障。",
-      "type": "收件箱",
-      "source": "",
-      "tags": [],
+      "type": "句子",
+      "source": "全真科法",
+      "tags": [
+        "仙侠",
+        "诗"
+      ],
       "images": [],
-      "createdAt": 1792931492555
+      "createdAt": 1792931492555,
+      "updatedAt": 1792932526487
     },
     {
       "id": "mvnt4h3ebm8cv",
       "text": "神风静默，璧月澄清。",
-      "type": "收件箱",
-      "source": "",
-      "tags": [],
+      "type": "句子",
+      "source": "全真科法",
+      "tags": [
+        "仙侠"
+      ],
       "images": [],
-      "createdAt": 1792931502218
+      "createdAt": 1792931502218,
+      "updatedAt": 1792932529496
     },
     {
       "id": "mvnt5otwcnvzh",
       "text": "周回八陛至尊端拱于光中，开泰九幽游爽超凌于象外。",
-      "type": "收件箱",
-      "source": "",
-      "tags": [],
+      "type": "句子",
+      "source": "全真科法",
+      "tags": [
+        "仙侠"
+      ],
       "images": [],
-      "createdAt": 1792931558900
+      "createdAt": 1792931558900,
+      "updatedAt": 1792932532625
     }
   ]
 }
