@@ -1,7 +1,7 @@
 {
-  "_rev": 24,
+  "_rev": 25,
   "version": 4,
-  "updatedAt": "2026-10-25T12:45:16.647Z",
+  "updatedAt": "2026-10-25T12:49:04.274Z",
   "indexShards": {
     "2026": {
       "count": 32,
@@ -26,7 +26,8 @@
       "杂项": "#c2410c"
     },
     "sources": [
-      "您完全不按套路制卡是吗"
+      "您完全不按套路制卡是吗",
+      "全真科法"
     ],
     "fixedSource": "",
     "fixedTags": [],
@@ -235,10 +236,7 @@
         "statsRange": "week"
       },
       "reviewFixedCat": "句子",
-      "reviewFixedTags": [
-        "涩涩",
-        "键政"
-      ],
+      "reviewFixedTags": [],
       "reviewFixedSource": null,
       "reviewPinnedCats": [
         "段子"
