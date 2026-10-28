@@ -1,7 +1,7 @@
 {
-  "_rev": 38,
+  "_rev": 39,
   "version": 4,
-  "updatedAt": "2026-10-28T15:40:56.296Z",
+  "updatedAt": "2026-10-28T15:56:18.722Z",
   "indexShards": {
     "2026": {
       "count": 59,
@@ -230,7 +230,11 @@
         "statsRange": "week"
       },
       "reviewFixedCat": "句子",
-      "reviewFixedTags": [],
+      "reviewFixedTags": [
+        "逼话",
+        "刀子",
+        "抽象"
+      ],
       "reviewFixedSource": null,
       "reviewPinnedCats": [
         "段子"
