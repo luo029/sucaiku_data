@@ -1,7 +1,7 @@
 {
-  "_rev": 34,
+  "_rev": 35,
   "version": 4,
-  "updatedAt": "2026-10-28T07:19:09.285Z",
+  "updatedAt": "2026-10-28T07:23:46.255Z",
   "indexShards": {
     "2026": {
       "count": 57,
@@ -192,6 +192,13 @@
       "readestAutoExpand": false,
       "readestShowDiff": true,
       "readestDefaultPush": false,
+      "imgUploadMode": "smart",
+      "imgUploadSmallMax": 2,
+      "imgUploadSmallConcurrency": 1,
+      "imgUploadSmallDelay": 0,
+      "imgUploadLargeConcurrency": 1,
+      "imgUploadLargeDelay": 500,
+      "enableStatsCache": true,
       "sidebarLimit": 2,
       "reviewStyle": {
         "size": "28px",
@@ -239,19 +246,10 @@
       "reviewPinnedSources": [
         "测试"
       ],
-      "imgUploadMode": "smart",
-      "imgUploadSmallMax": 2,
-      "imgUploadSmallConcurrency": 1,
-      "imgUploadSmallDelay": 0,
-      "imgUploadLargeConcurrency": 1,
-      "imgUploadLargeDelay": 500,
-      "enableStatsCache": true,
       "catVersion": 0,
       "shortcutRandom": "alt+enter"
     },
-    "tagColors": {
-      "恋爱": "#c2410c"
-    },
+    "tagColors": {},
     "catVersion": 7
   }
 }
