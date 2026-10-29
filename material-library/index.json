@@ -1,10 +1,10 @@
 {
-  "_rev": 45,
+  "_rev": 46,
   "version": 4,
-  "updatedAt": "2026-10-29T13:58:15.355Z",
+  "updatedAt": "2026-10-29T15:56:11.243Z",
   "indexShards": {
     "2026": {
-      "count": 84,
+      "count": 85,
       "shardCount": 11
     }
   },
