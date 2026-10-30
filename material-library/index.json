@@ -1,10 +1,10 @@
 {
-  "_rev": 46,
+  "_rev": 47,
   "version": 4,
-  "updatedAt": "2026-10-29T15:56:11.243Z",
+  "updatedAt": "2026-10-30T13:57:50.395Z",
   "indexShards": {
     "2026": {
-      "count": 85,
+      "count": 90,
       "shardCount": 11
     }
   },
@@ -28,7 +28,8 @@
     "sources": [
       "您完全不按套路制卡是吗",
       "全真科法",
-      "天理协议"
+      "天理协议",
+      "知乎"
     ],
     "fixedSource": "",
     "fixedTags": [],
@@ -128,7 +129,7 @@
       "snapshotCompress": true,
       "snapshotPath": "snapshots/",
       "snapshotAutoCleanup": true,
-      "lastSnapshotAt": 1792932650147,
+      "lastSnapshotAt": 1793368657481,
       "catSyncAction": "ask",
       "catConflictMode": "last-write",
       "trashAutoCleanupThreshold": 1000,
@@ -243,15 +244,15 @@
       "reviewPinnedSources": [
         "测试"
       ],
+      "enableStatsCache": true,
+      "catVersion": 0,
+      "shortcutRandom": "alt+enter",
       "imgUploadMode": "smart",
       "imgUploadSmallMax": 2,
       "imgUploadSmallConcurrency": 1,
       "imgUploadSmallDelay": 0,
       "imgUploadLargeConcurrency": 1,
-      "imgUploadLargeDelay": 500,
-      "enableStatsCache": true,
-      "catVersion": 0,
-      "shortcutRandom": "alt+enter"
+      "imgUploadLargeDelay": 500
     },
     "tagColors": {},
     "catVersion": 7
