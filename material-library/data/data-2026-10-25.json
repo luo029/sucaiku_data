@@ -74,6 +74,32 @@
       "images": [],
       "createdAt": 1792931558900,
       "updatedAt": 1792932532625
+    },
+    {
+      "id": "mvmmweu9sdaf3",
+      "text": "达则兼济天下，穷则独善其身。（富则淫趴，穷则自渎）",
+      "type": "段子",
+      "source": "",
+      "tags": [
+        "骚话",
+        "涩涩"
+      ],
+      "images": [],
+      "createdAt": 1792860582179,
+      "updatedAt": 1792860629519
+    },
+    {
+      "id": "mvmmy2tff3plz",
+      "text": "Too bad,to bed.（遇到困难睡大觉。）",
+      "type": "段子",
+      "source": "",
+      "tags": [
+        "骚话",
+        "英语"
+      ],
+      "images": [],
+      "createdAt": 1792860659907,
+      "updatedAt": 1792860681383
     }
   ]
 }
