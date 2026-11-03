@@ -222,11 +222,14 @@
     {
       "id": "mvt2tl87olglc",
       "text": "纯血人族，人族主义者……\n像是《没钱修什么仙》里的北无锋。\n妖裔、妖修、妖畜……",
-      "type": "收件箱",
+      "type": "点子",
       "source": "",
-      "tags": [],
+      "tags": [
+        "人设"
+      ],
       "images": [],
-      "createdAt": 1793250121399
+      "createdAt": 1793250121399,
+      "updatedAt": 1793723200079
     },
     {
       "id": "mvtaktmemvlnu",
