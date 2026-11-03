@@ -1,7 +1,7 @@
 {
-  "_rev": 96,
+  "_rev": 97,
   "version": 4,
-  "updatedAt": "2026-11-03T16:11:54.435Z",
+  "updatedAt": "2026-11-03T16:16:21.725Z",
   "indexShards": {
     "2026": {
       "count": 126,
@@ -193,13 +193,6 @@
       "readestAutoExpand": false,
       "readestShowDiff": true,
       "readestDefaultPush": false,
-      "imgUploadMode": "smart",
-      "imgUploadSmallMax": 2,
-      "imgUploadSmallConcurrency": 1,
-      "imgUploadSmallDelay": 0,
-      "imgUploadLargeConcurrency": 1,
-      "imgUploadLargeDelay": 500,
-      "enableStatsCache": true,
       "sidebarLimit": 2,
       "reviewStyle": {
         "size": "28px",
@@ -251,6 +244,13 @@
       "reviewPinnedSources": [
         "测试"
       ],
+      "imgUploadMode": "smart",
+      "imgUploadSmallMax": 2,
+      "imgUploadSmallConcurrency": 1,
+      "imgUploadSmallDelay": 0,
+      "imgUploadLargeConcurrency": 1,
+      "imgUploadLargeDelay": 500,
+      "enableStatsCache": true,
       "catVersion": 0,
       "shortcutRandom": "alt+enter"
     },
