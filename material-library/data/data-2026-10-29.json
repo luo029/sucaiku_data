@@ -259,11 +259,14 @@
     {
       "id": "mvtq6ldicaqri",
       "text": "男主变成猫，然后女主失眠了。\n\n男主帮忙踩奶产生催乳素，改善睡眠。",
-      "type": "收件箱",
+      "type": "点子",
       "source": "",
-      "tags": [],
+      "tags": [
+        "抽象"
+      ],
       "images": [],
-      "createdAt": 1793289359286
+      "createdAt": 1793289359286,
+      "updatedAt": 1793723295918
     }
   ]
 }
