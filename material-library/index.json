@@ -1,7 +1,7 @@
 {
-  "_rev": 104,
+  "_rev": 105,
   "version": 4,
-  "updatedAt": "2026-11-03T16:27:02.162Z",
+  "updatedAt": "2026-11-03T16:27:29.867Z",
   "indexShards": {
     "2026": {
       "count": 128,
@@ -231,7 +231,9 @@
         "statsRange": "week"
       },
       "reviewFixedCat": null,
-      "reviewFixedTags": [],
+      "reviewFixedTags": [
+        "资料"
+      ],
       "reviewFixedSource": null,
       "reviewPinnedCats": [
         "段子"
