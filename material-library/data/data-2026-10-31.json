@@ -18,11 +18,14 @@
     {
       "id": "mvw4bbsz0vebm",
       "text": "承受愚者滔天的怒火和恶意，是我向真理递交的投名状。",
-      "type": "收件箱",
+      "type": "句子",
       "source": "",
-      "tags": [],
+      "tags": [
+        "逼话"
+      ],
       "images": [],
-      "createdAt": 1793434027139
+      "createdAt": 1793434027139,
+      "updatedAt": 1793723340509
     },
     {
       "id": "mvw4w3jazkiob",
