@@ -234,11 +234,14 @@
     {
       "id": "mvtaktmemvlnu",
       "text": "我向生活投降，生活对我投翔",
-      "type": "收件箱",
+      "type": "句子",
       "source": "",
-      "tags": [],
+      "tags": [
+        "骚话"
+      ],
       "images": [],
-      "createdAt": 1793263149302
+      "createdAt": 1793263149302,
+      "updatedAt": 1793723215004
     },
     {
       "id": "mvtlyzu2qzfyz",
