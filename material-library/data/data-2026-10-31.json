@@ -44,11 +44,16 @@
     {
       "id": "mvw50wthyxkow",
       "text": "一对笑面虎，两头乌角鲨。\n（新三国梗，并无乌角鲨这个物种……）",
-      "type": "收件箱",
+      "type": "句子",
       "source": "",
-      "tags": [],
+      "tags": [
+        "骚话",
+        "梗",
+        "抽象"
+      ],
       "images": [],
-      "createdAt": 1793435220773
+      "createdAt": 1793435220773,
+      "updatedAt": 1793723377271
     },
     {
       "id": "mvw51ytdjch7l",
