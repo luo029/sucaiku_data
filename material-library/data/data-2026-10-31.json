@@ -71,11 +71,15 @@
     {
       "id": "mvw5mcmz8s3oy",
       "text": "圈子越大，神人越多。\n圈子越小，神人越神。\n而XX自成一个圈子，神的没边。",
-      "type": "收件箱",
+      "type": "句子",
       "source": "",
-      "tags": [],
+      "tags": [
+        "骚话",
+        "抽象"
+      ],
       "images": [],
-      "createdAt": 1793436221051
+      "createdAt": 1793436221051,
+      "updatedAt": 1793723400850
     },
     {
       "id": "mvw93frcjbn0b",
