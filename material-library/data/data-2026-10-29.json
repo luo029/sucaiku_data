@@ -246,11 +246,15 @@
     {
       "id": "mvtlyzu2qzfyz",
       "text": "《晚清官场镜像：杜凤治日记研究》\n清朝官场制度研究文，学术类型。",
-      "type": "收件箱",
+      "type": "杂项",
       "source": "",
-      "tags": [],
+      "tags": [
+        "资料",
+        "官场"
+      ],
       "images": [],
-      "createdAt": 1793282286314
+      "createdAt": 1793282286314,
+      "updatedAt": 1793723247139
     },
     {
       "id": "mvtq6ldicaqri",
