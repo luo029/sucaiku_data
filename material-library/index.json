@@ -1,7 +1,7 @@
 {
-  "_rev": 117,
+  "_rev": 118,
   "version": 4,
-  "updatedAt": "2026-11-07T16:01:43.166Z",
+  "updatedAt": "2026-11-07T16:01:59.840Z",
   "indexShards": {
     "2026": {
       "count": 132,
@@ -235,7 +235,7 @@
       },
       "reviewFixedCat": null,
       "reviewFixedTags": [],
-      "reviewFixedSource": null,
+      "reviewFixedSource": "谁教你这么御卡的？",
       "reviewPinnedCats": [
         "段子"
       ],
