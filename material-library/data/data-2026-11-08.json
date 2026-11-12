@@ -18,11 +18,14 @@
     {
       "id": "mw6nsdabmlahl",
       "text": "段子。\n人设？\n——\n拧开保温杯，吹吹热气，徐徐喝茶，嚼嚼茶叶……“tui！”，呸呸吐掉。",
-      "type": "收件箱",
-      "source": "",
-      "tags": [],
+      "type": "点子",
+      "source": "谁教你这么御卡的？",
+      "tags": [
+        "人设"
+      ],
       "images": [],
-      "createdAt": 1794071396675
+      "createdAt": 1794071396675,
+      "updatedAt": 1794478096727
     }
   ]
 }
