@@ -1,7 +1,7 @@
 {
-  "_rev": 121,
+  "_rev": 122,
   "version": 4,
-  "updatedAt": "2026-11-13T06:16:10.890Z",
+  "updatedAt": "2026-11-16T14:13:03.249Z",
   "indexShards": {
     "2026": {
       "count": 135,
@@ -132,7 +132,7 @@
       "snapshotCompress": true,
       "snapshotPath": "snapshots/",
       "snapshotAutoCleanup": true,
-      "lastSnapshotAt": 1794067299130,
+      "lastSnapshotAt": 1794838376876,
       "catSyncAction": "ask",
       "catConflictMode": "last-write",
       "trashAutoCleanupThreshold": 1000,
@@ -235,7 +235,7 @@
       },
       "reviewFixedCat": null,
       "reviewFixedTags": [],
-      "reviewFixedSource": "谁教你这么御卡的？",
+      "reviewFixedSource": null,
       "reviewPinnedCats": [
         "段子"
       ],
